@@ -1,0 +1,18 @@
+# Obsidian
+/.obsidian/workspace.json
+/.obsidian/workspace-mobile.json
+/.obsidian/plugins/
+/.obsidian/themes/
+/.obsidian/community-plugins.json
+/.trash/
+/*.log
+
+# Hermes
+/hermes.log
+/hermes_memory.json
+/raportit/*.html
+/dashboard_*.html
+
+# System
+.DS_Store
+Thumbs.db
